@@ -14,7 +14,6 @@ Below is a chart that displaying the features that are included in each major re
 
 
 ![History Of C# Versions](./history-of-c-sharp-versions.png)
-=======
 
 
 ## Motivate ⭐️
