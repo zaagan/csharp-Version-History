@@ -13,7 +13,7 @@ Below is a chart that displaying the features that are included in each major re
 
 
 
-![History Of C# Versions](/resources/History Of C# Versions.png)
+![History Of C# Versions](./resources/HistoryOf C# Versions.png)
 
 
 
